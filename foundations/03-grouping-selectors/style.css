@@ -1,0 +1,14 @@
+.button-l, 
+.button-r {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.button-l {
+    color: white;
+    background-color: black;
+}
+
+.button-r {
+    background-color: yellow;
+}
